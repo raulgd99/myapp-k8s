@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: gdraul99/myapp:1.0.0
+        image: gdraul99/myapp:0.0.0
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
