@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: gdraul99/myapp:challenge-version
+        image: gdraul99/myapp:33.33.33
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
