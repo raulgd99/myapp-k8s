@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: gdraul99/myapp:version-trivy-final-9
+        image: gdraul99/myapp:version-trivy-final-10
         imagePullPolicy: Always
         ports:
         - containerPort: 5000
